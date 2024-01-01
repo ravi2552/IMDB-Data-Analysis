@@ -11,4 +11,4 @@ Explore IMDb data with this Python-powered analysis project. Uncover top-rated m
 
 ## Tech Used
   - Python, Pandas
-  - Matplotlib, Seaborn
+  - Matplotlib
